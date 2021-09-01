@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://moqiqiuzi.github.io/2020/12/10/hexo/</loc>
+    
+    <lastmod>2021-09-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://moqiqiuzi.github.io/tags/index.html</loc>
     
     <lastmod>2021-09-01</lastmod>
@@ -29,13 +36,6 @@
     
   </url>
   
-  <url>
-    <loc>http://moqiqiuzi.github.io/2020/12/10/hexo/</loc>
-    
-    <lastmod>2021-09-01</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://moqiqiuzi.github.io/</loc>
@@ -44,6 +44,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://moqiqiuzi.github.io/tags/Vercel/</loc>
+    <lastmod>2021-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>http://moqiqiuzi.github.io/tags/Hexo/</loc>
@@ -55,7 +62,7 @@
 
   
   <url>
-    <loc>http://moqiqiuzi.github.io/categories/Hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BB%BA%E8%AE%BE/</loc>
+    <loc>http://moqiqiuzi.github.io/categories/Hexo/</loc>
     <lastmod>2021-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
